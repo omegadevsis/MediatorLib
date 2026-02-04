@@ -1,6 +1,3 @@
 namespace MediatorLib.Notifications;
 
-public class INotification
-{
-    
-}
+public interface INotification { }

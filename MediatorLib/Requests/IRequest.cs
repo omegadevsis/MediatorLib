@@ -1,6 +1,3 @@
 namespace MediatorLib.Requests;
 
-public class IRequest
-{
-    
-}
+public interface IRequest<TResponse> { }
